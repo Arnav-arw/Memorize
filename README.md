@@ -7,13 +7,16 @@ The project is built using [Swift](https://swift.org/documentation/#the-swift-pr
 
 ## App's UI/UX 📱
 
-* **iOS:**
+* **iOS:** 
+<img width="484" alt="image" src="https://user-images.githubusercontent.com/88189594/148359355-0365a03c-3b1d-4069-9e90-85923163e052.png">
+
+https://user-images.githubusercontent.com/88189594/148359667-3a4d0547-cd74-4bdc-b499-284bdee1978c.mov
 
 
 * **iPadOS:**
+<img width="850" alt="image" src="https://user-images.githubusercontent.com/88189594/148359878-1200373b-7aa8-4b86-a38f-d0604051811a.png">
 
-
-
+https://user-images.githubusercontent.com/88189594/148360169-871f1cef-09ff-4207-8a98-f1fa2f3da654.mov
 
 
 ## Who Can Contribute? 👩🏽‍💻
