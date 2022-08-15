@@ -20,7 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		6A08346026F5133500EFDB59 /* Memorize 3.0.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Memorize 3.0.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6A08346026F5133500EFDB59 /* Memorize.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Memorize.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6A08346326F5133500EFDB59 /* Memorize_3_0App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Memorize_3_0App.swift; sourceTree = "<group>"; };
 		6A08346526F5133500EFDB59 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6A08346726F5133600EFDB59 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -56,7 +56,7 @@
 		6A08346126F5133500EFDB59 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6A08346026F5133500EFDB59 /* Memorize 3.0.app */,
+				6A08346026F5133500EFDB59 /* Memorize.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -90,9 +90,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		6A08345F26F5133500EFDB59 /* Memorize 3.0 */ = {
+		6A08345F26F5133500EFDB59 /* Memorize */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6A08346F26F5133600EFDB59 /* Build configuration list for PBXNativeTarget "Memorize 3.0" */;
+			buildConfigurationList = 6A08346F26F5133600EFDB59 /* Build configuration list for PBXNativeTarget "Memorize" */;
 			buildPhases = (
 				6A08345C26F5133500EFDB59 /* Sources */,
 				6A08345D26F5133500EFDB59 /* Frameworks */,
@@ -102,9 +102,9 @@
 			);
 			dependencies = (
 			);
-			name = "Memorize 3.0";
+			name = Memorize;
 			productName = "Memorize 3.0";
-			productReference = 6A08346026F5133500EFDB59 /* Memorize 3.0.app */;
+			productReference = 6A08346026F5133500EFDB59 /* Memorize.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -134,7 +134,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				6A08345F26F5133500EFDB59 /* Memorize 3.0 */,
+				6A08345F26F5133500EFDB59 /* Memorize */,
 			);
 		};
 /* End PBXProject section */
@@ -294,7 +294,7 @@
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"Memorize 3.0/Preview Content\"";
-				DEVELOPMENT_TEAM = KH8B299556;
+				DEVELOPMENT_TEAM = HG5H24J47G;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "Memorize 3.0/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
@@ -317,7 +317,7 @@
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"Memorize 3.0/Preview Content\"";
-				DEVELOPMENT_TEAM = KH8B299556;
+				DEVELOPMENT_TEAM = HG5H24J47G;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "Memorize 3.0/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
@@ -344,7 +344,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6A08346F26F5133600EFDB59 /* Build configuration list for PBXNativeTarget "Memorize 3.0" */ = {
+		6A08346F26F5133600EFDB59 /* Build configuration list for PBXNativeTarget "Memorize" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6A08347026F5133600EFDB59 /* Debug */,
