@@ -64,14 +64,11 @@
 		6A08346226F5133500EFDB59 /* Memorize 3.0 */ = {
 			isa = PBXGroup;
 			children = (
-				6A08346526F5133500EFDB59 /* ContentView.swift */,
-				6A5320E427099EF5004CF17B /* Cardify.swift */,
-				6AFC801E270206370045C2D3 /* Pie.swift */,
-				6A6B94EF2701EE29007F3621 /* AspectVGrid.swift */,
-				6A08347226F5137500EFDB59 /* EmojiMemoryGame.swift */,
-				6A08347426F513C600EFDB59 /* MemoryGame.swift */,
 				6A08346326F5133500EFDB59 /* Memorize_3_0App.swift */,
-				6A08347626F5149D00EFDB59 /* GameTheme.swift */,
+				6A08346526F5133500EFDB59 /* ContentView.swift */,
+				6A71BD5D2A3B86C2002B68A1 /* Views */,
+				6A71BD5F2A3B86CA002B68A1 /* ViewModels */,
+				6A71BD5E2A3B86C6002B68A1 /* Models */,
 				6A08346726F5133600EFDB59 /* Assets.xcassets */,
 				6A08346C26F5133600EFDB59 /* Info.plist */,
 				6A08346926F5133600EFDB59 /* Preview Content */,
@@ -85,6 +82,33 @@
 				6A08346A26F5133600EFDB59 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		6A71BD5D2A3B86C2002B68A1 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				6A5320E427099EF5004CF17B /* Cardify.swift */,
+				6AFC801E270206370045C2D3 /* Pie.swift */,
+				6A6B94EF2701EE29007F3621 /* AspectVGrid.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		6A71BD5E2A3B86C6002B68A1 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				6A08347426F513C600EFDB59 /* MemoryGame.swift */,
+				6A08347626F5149D00EFDB59 /* GameTheme.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		6A71BD5F2A3B86CA002B68A1 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				6A08347226F5137500EFDB59 /* EmojiMemoryGame.swift */,
+			);
+			path = ViewModels;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

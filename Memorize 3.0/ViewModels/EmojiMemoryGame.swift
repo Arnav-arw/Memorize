@@ -88,7 +88,7 @@ class emojiMemoryGame: ObservableObject {
         return model.score
     }
     
-    var cards: Array<Card> {
+    var cards: [Card] {
         model.cards
     }
     
